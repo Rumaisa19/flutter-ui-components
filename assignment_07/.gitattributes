@@ -1,0 +1,14 @@
+*.dart linguist-language=Dart
+android/* linguist-vendored=true
+ios/* linguist-vendored=true
+linux/* linguist-vendored=true
+macos/* linguist-vendored=true
+windows/* linguist-vendored=true
+web/* linguist-vendored=true
+*.gradle linguist-vendored=true
+*.xml linguist-vendored=true
+*.java linguist-vendored=true
+*.kt linguist-vendored=true
+*.swift linguist-vendored=true
+*.html linguist-vendored=true
+*.js linguist-vendored=true
