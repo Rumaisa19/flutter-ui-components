@@ -104,7 +104,7 @@ lib/
 
 ```bash
 # Clone or copy project folder
-cd ubit_hub
+cd assignment_08
 
 # Install dependencies
 flutter pub get
