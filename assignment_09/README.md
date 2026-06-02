@@ -149,7 +149,7 @@ http: ^1.2.1
 
 | Field      | Detail                              |
 | ---------- | ----------------------------------- |
-| Course     | Flutter Development — UBIT Batch 23 |
+| Course     | Flutter Development — UBIT Batch 26 |
 | Assignment | 9 — Product Catalog Manager         |
 | Topic      | Provider + HTTP (CRUD)              |
 | Marks      | 100 pts                             |
